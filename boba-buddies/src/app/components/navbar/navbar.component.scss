@@ -18,10 +18,16 @@ ul li{
     padding: 0 15px;
     cursor: pointer;
     font-size: 15pt;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
 }
 
 li:hover {
     color: #9db24b;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
 }
 
 .boba-button {

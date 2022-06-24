@@ -5,12 +5,21 @@
     left: 50%;
     transform: translate(-50%, -50%);
     button {
+        font-size: 1.6rem;
+        text-transform: lowercase;
         background-color: #60483a;
         border-color: #60483a;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        transition: all 0.3s;
     }
     button:hover {
         background-color: #ffffff;
         color: #9db24b;
         border-color: #9db24b;
-    }
+        z-index: -1;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        transition: all 0.3s;
+    }    
 }
