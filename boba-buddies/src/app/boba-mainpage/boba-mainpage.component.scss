@@ -1,0 +1,16 @@
+.hero-header {
+    text-align: center;
+    position: absolute;
+    top: 400%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    button {
+        background-color: #60483a;
+        border-color: #60483a;
+    }
+    button:hover {
+        background-color: #ffffff;
+        color: #9db24b;
+        border-color: #9db24b;
+    }
+}
