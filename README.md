@@ -1,2 +1,2 @@
 # Boba-Buddies
-Locator for Boba shops in your current location
+Locator for Boba shops near you
